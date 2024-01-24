@@ -11,3 +11,6 @@ Redis를 이용한 채팅 구현의 이해를 돕기 위해서 만든 데모.
 ```bash
 uvicorn run:app --reload --port 8000
 ```
+
+## 스크린샷
+![스크린샷 2024-01-09 오후 3 13 37](https://github.com/CoreDotToday/coredot-chat-demo/assets/5226919/be19882a-ce3f-4d49-8b40-a21a4c1dfb1e)
